@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "gm_idag_ivar": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
